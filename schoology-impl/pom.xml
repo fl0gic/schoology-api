@@ -8,7 +8,7 @@
 	</parent>
 	<artifactId>schoology-oauth</artifactId>
 	<version>1.0.0</version>
-	<name>Schoology API Implementation</name>
+	<name>SchoologyAPI-Implementation</name>
 	<dependencies>
 		<dependency>
 			<groupId>net.rvanasa</groupId>

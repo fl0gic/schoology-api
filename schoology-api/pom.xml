@@ -8,5 +8,5 @@
 	</parent>
 	<artifactId>schoology-api</artifactId>
 	<version>1.0.0</version>
-	<name>Java API for Schoology</name>
+	<name>SchoologyAPI</name>
 </project>
